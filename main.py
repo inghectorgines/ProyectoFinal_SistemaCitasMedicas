@@ -1,3 +1,6 @@
+## Descargo y procedo a revisar y calificar.
+
+
 print("""
 Acciones disponibles:
     - Registro (1)
